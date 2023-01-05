@@ -5,7 +5,7 @@
   <img align="left" alt="Nico's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://medium.com/@nico.fliegel">
-  <img align="left" alt="Nico's Medium" width="60px" src="https://c.neevacdn.net/image/fetch/s--76whhfs---/https%3A//www.thelogocreative.co.uk/wp-content/uploads/2017/08/1_uLuWzCXfq2rt1t_TkuLB8A.png?savepath=1_uLuWzCXfq2rt1t_TkuLB8A.png" />
+  <img align="left" alt="Nico's Medium" width="66px" src="https://c.neevacdn.net/image/fetch/s--76whhfs---/https%3A//www.thelogocreative.co.uk/wp-content/uploads/2017/08/1_uLuWzCXfq2rt1t_TkuLB8A.png?savepath=1_uLuWzCXfq2rt1t_TkuLB8A.png" />
 </a>
 <a href="https://www.instagram.com/n1c0_f99/">
   <img align="left" alt="Nico's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
