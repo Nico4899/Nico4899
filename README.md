@@ -5,10 +5,10 @@
   <img align="left" alt="Nico's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://medium.com/@nico.fliegel">
-  <img align="left" alt="Nico's Medium" width="22px" src="https://github.com/gilbarbara/logos/tree/master/logos/medium-icon.svg" />
+  <img align="left" alt="Nico's Medium" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/tree/master/logos/medium-icon.svg" />
 </a>
 <a href="https://www.instagram.com/n1c0_f99/">
-  <img align="left" alt="Nico's Instagram" width="22px" src="https://github.com/gilbarbara/logos/tree/master/logos/instagram-icon.svg" />
+  <img align="left" alt="Nico's Instagram" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/tree/master/logos/instagram-icon.svg" />
 </a>
 <a href="https://twitter.com/n1c0_f99">
   <img align="left" alt="Nico's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
