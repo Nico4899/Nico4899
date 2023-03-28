@@ -1,6 +1,11 @@
 [![MasterHead](https://www.wallpaperup.com/uploads/wallpapers/2015/07/26/763385/9a82dcaefabcd4470d587987f7b97e24.jpg)](https://github.com/Nico4899)
 
 ### hey there 
+
+- I am a final year undergraduate student in Computer Science
+- Currently working with React, JS, Microsoft Azure, and GraphQL at Bosch Digital as a working student
+- Love to play soccer and tennis in my free time
+
 <a href="https://www.linkedin.com/in/nicolas-fliegel/">
   <img align="left" alt="Nico's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
