@@ -52,9 +52,9 @@ I am a computer science student, currently working for Bosch Digital in Berlin <
   <br/>                                                                                                                                             
 </div>
  <br/>
-  Want to know more about me? Like to share new ideas? Want to meet up? Feel free to connect with me! [email](mailto:abhishek.naidu@cred.club)
+  Want to know more about me? Like to share new ideas? Want to meet up? Feel free to connect with me! [email](mailto:ubncr@student.kit.edu)
     
-<br/>
+    <br/>
     <a href="https://www.linkedin.com/in/nicolas-fliegel/">
       <img align="left" alt="Nico's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
