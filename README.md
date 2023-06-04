@@ -45,7 +45,7 @@ I am a computer science student, currently working for Bosch Digital in Berlin <
     
  <br/>
 <div align="center">
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/nicolas_fliegel/)
+  [[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/nicolas_fliegel/)](https://leetcard.jacoblin.cool/nicolas_fliegel?theme=light&font=Sunflower)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico4899)](https://github.com/anuraghazra/github-readme-stats)
   
