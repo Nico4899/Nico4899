@@ -52,19 +52,22 @@ I am a computer science student, currently working for Bosch Digital in Berlin <
   <br/>                                                                                                                                             
 </div>
  <br/>
-  Want to know more about me? Like to share new ideas? Want to meet up? Feel free to connect with me! [email](mailto:ubncr@student.kit.edu)
+  Want to know more about me? Like to share new ideas? Want to meet up? Feel free to connect with me! 
+  [email](mailto:ubncr@student.kit.edu)
     
-    <br/>
-    <a href="https://www.linkedin.com/in/nicolas-fliegel/">
-      <img align="left" alt="Nico's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-    </a>
-    <a href="https://medium.com/@nico.fliegel">
-      <img align="left" alt="Nico's Medium" width="66px" src="https://c.neevacdn.net/image/fetch/s--76whhfs---/https%3A//www.thelogocreative.co.uk/wp-content/uploads/2017/08/1_uLuWzCXfq2rt1t_TkuLB8A.png?savepath=1_uLuWzCXfq2rt1t_TkuLB8A.png" />
-    </a>
-    <a href="https://www.instagram.com/n1c0_f99/">
-      <img align="left" alt="Nico's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
-    </a>
-    <a href="https://twitter.com/n1c0_f99">
-      <img align="left" alt="Nico's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-    </a>  
+<a href="https://www.linkedin.com/in/nicolas-fliegel/">
+  <img align="left" alt="Nico's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://medium.com/@nico.fliegel">
+  <img align="left" alt="Nico's Medium" width="66px" src="https://c.neevacdn.net/image/fetch/s--76whhfs---/https%3A//www.thelogocreative.co.uk/wp-content/uploads/2017/08/1_uLuWzCXfq2rt1t_TkuLB8A.png?savepath=1_uLuWzCXfq2rt1t_TkuLB8A.png" />
+</a>
+
+<a href="https://www.instagram.com/n1c0_f99/">
+  <img align="left" alt="Nico's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+</a>
+
+<a href="https://twitter.com/n1c0_f99">
+  <img align="left" alt="Nico's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>  
 
