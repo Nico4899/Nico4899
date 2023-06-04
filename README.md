@@ -37,14 +37,10 @@ I am a computer science student, currently working for Bosch Digital in Berlin <
     <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&labelColor=000000&logoColor=EB5424&logo=auth0">
   </a>
 </div>
-
-Want to know more about me? Like to share new ideas? Want to meet up? Feel free to connect with me!
-<br/>
-[email](ubncr@student.kit.edu)
-
+    
 <br/>
 
-<h4>Follow me on:</h4> 
+<h3>Follow me on:</h3> 
 <br/>
   <a href="https://www.linkedin.com/in/nicolas-fliegel/">
     <img align="left" alt="Nico's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -58,11 +54,16 @@ Want to know more about me? Like to share new ideas? Want to meet up? Feel free 
   <a href="https://twitter.com/n1c0_f99">
     <img align="left" alt="Nico's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
+    
+ <br/>
 <div align="center">
-  
+  [profile](https://leetcode.com/nicolas_fliegel)
+  [![Nico's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nicolas_fliegel)](https://github.com/KnlnKS/leetcode-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico4899&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<h4>LeetCode Stats
-## LeetCode Stats ([profile](https://leetcode.com/nicolas_fliegel))
-[![Nico's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nicolas_fliegel)](https://github.com/KnlnKS/leetcode-stats)
+  
+ <br/>
+  Want to know more about me? Like to share new ideas? Want to meet up? Feel free to connect with me!
+<br/>
+[email](ubncr@student.kit.edu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico4899&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
