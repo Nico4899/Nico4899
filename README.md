@@ -1,12 +1,31 @@
-[![MasterHead](https://www.wallpaperup.com/uploads/wallpapers/2015/07/26/763385/9a82dcaefabcd4470d587987f7b97e24.jpg)](https://github.com/Nico4899)
+<img src="https://www.wallpaperup.com/uploads/wallpapers/2015/07/26/763385/9a82dcaefabcd4470d587987f7b97e24.jpg" width="50%" height="50%" />
 
-### HI I'M Nicolas Fliegel 
-
+<h2 align="center">
+  HI I'M Nicolas Fliegel 
+</h2>
+          
 I am a computer science student, currently working for Bosch Digital in Berlin <img src="https://icons8.de/icon/hTMPE6ntTofO/germany" width="13" /> as a Cloud Developer
 - Currently working with React, JS, Microsoft Azure, and GraphQL at Bosch Digital as a working student
 - Love to play soccer and tennis in my free time
 
 <br />
+
+<div align="center">
+  <h4>Tools & Technologies I used</h4>
+  
+  <a href="https://angular.io">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=ffffff&logoColor=DD0031&logo=angular">
+  </a>
+  <a href="https://www.docker.com">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=369cee&logoColor=ffffff&logo=docker">
+  </a> 
+  <a href="https://en.wikipedia.org/wiki/JavaScript">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=ffffff&logoColor=F7DF1E&logo=javascript">
+  </a>
+  <a href="https://auth0.com/">
+      <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&labelColor=000000&logoColor=EB5424&logo=auth0">
+  </a>
+</div>
 
 Want to know more about me? Like to share new ideas? Want to meet up? Feel free to connect with me!
 [email](ubncr@student.kit.edu)
