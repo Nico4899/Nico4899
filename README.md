@@ -28,11 +28,12 @@ I am a computer science student, currently working for Bosch Digital in Berlin <
 </div>
 
 Want to know more about me? Like to share new ideas? Want to meet up? Feel free to connect with me!
+<br/>
 [email](ubncr@student.kit.edu)
 
 <br/>
 
-<b>Follow me on:</b>
+<b>Follow me on:</b> <br/>
   <a href="https://www.linkedin.com/in/nicolas-fliegel/">
     <img align="left" alt="Nico's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
