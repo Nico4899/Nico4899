@@ -1,10 +1,20 @@
 [![MasterHead](https://www.wallpaperup.com/uploads/wallpapers/2015/07/26/763385/9a82dcaefabcd4470d587987f7b97e24.jpg)](https://github.com/Nico4899)
 
-### hey there 
+### HI I'M Nicolas Fliegel 
 
-- I am a final year undergraduate student in Computer Science
+I am a computer science student, currently working for Bosch Digital in Berlin <img src="https://icons8.de/icon/hTMPE6ntTofO/germany" width="13" /> as a Cloud Developer
 - Currently working with React, JS, Microsoft Azure, and GraphQL at Bosch Digital as a working student
 - Love to play soccer and tennis in my free time
+
+<br />
+
+Want to know more about me? Like to share new ideas? Want to meet up? Feel free to connect with me!
+[email](ubncr@student.kit.edu)
+
+## LeetCode Stats ([profile](https://leetcode.com/nicolas_fliegel))
+[![Nico's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nicolas_fliegel)](https://github.com/KnlnKS/leetcode-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico4899&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/nicolas-fliegel/">
   <img align="left" alt="Nico's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -18,14 +28,3 @@
 <a href="https://twitter.com/n1c0_f99">
   <img align="left" alt="Nico's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=Nico4899)
-
-<br />
-
-
-
-## LeetCode Stats ([profile](https://leetcode.com/nicolas_fliegel))
-[![Nico's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nicolas_fliegel)](https://github.com/KnlnKS/leetcode-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico4899&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
