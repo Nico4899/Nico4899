@@ -1,7 +1,7 @@
 <img src="https://www.wallpaperup.com/uploads/wallpapers/2015/07/26/763385/9a82dcaefabcd4470d587987f7b97e24.jpg" width="50%" height="50%" />
 
 <h2 align="center">
-  HI I'M Nicolas Fliegel 
+  Hey, I am Nicolas FLiegel 
 </h2>
           
 I am a computer science student, currently working for Bosch Digital in Berlin <img src="https://icons8.de/icon/hTMPE6ntTofO/germany" width="13" /> as a Cloud Developer
@@ -33,7 +33,8 @@ Want to know more about me? Like to share new ideas? Want to meet up? Feel free 
 
 <br/>
 
-<b>Follow me on:</b> <br/>
+<h4>Follow me on:</h4> 
+<br/>
   <a href="https://www.linkedin.com/in/nicolas-fliegel/">
     <img align="left" alt="Nico's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
