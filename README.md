@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.wallpaperup.com/uploads/wallpapers/2015/07/26/763385/9a82dcaefabcd4470d587987f7b97e24.jpg" width="50%" height="50%" />
+  <img style="border-radius: 10px" src="https://www.wallpaperup.com/uploads/wallpapers/2015/07/26/763385/9a82dcaefabcd4470d587987f7b97e24.jpg" width="50%" height="50%" />
   <h2>Hi, I'm Nicolas Fliegel</h2>
 </div>
 
