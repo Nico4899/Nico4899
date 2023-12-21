@@ -58,4 +58,32 @@ I'm a computer science student and Cloud Developer at Bosch Digital in Berlin, G
   </a>
   <!-- Twitter -->
   <a href="https://twitter.com/n1c0_f99">
-    <img alt="Nico's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthe
+    <img alt="Nico's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>  
+  <!-- Email -->
+  <a href="mailto:ubncr@student.kit.edu">
+    <img alt="Nico's Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" />
+  </a>
+</div>
+
+### 📈 My GitHub Stats
+
+<div align="center">
+  <a href="https://leetcode.com/nicolas_fliegel/">
+    <img src="https://leetcard.jacoblin.cool/nicolas_fliegel?theme=light&font=Sunflower" />
+  </a>
+  
+  <a href="https://github.com/Nico4899">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico4899" />
+  </a>
+</div>
+
+### 📫 Contact Me
+
+Interested in collaborating or sharing ideas? Feel free to reach out to me!
+
+- 📧 Email: [ubncr@student.kit.edu](mailto:ubncr@student.kit.edu)
+- 💼 LinkedIn: [Nicolas Fliegel](https://www.linkedin.com/in/nicolas-fliegel/)
+- 📝 Medium: [nico.fliegel](https://medium.com/@nico.fliegel)
+- 📷 Instagram: [@n1c0_f99](https://www.instagram.com/n1c0_f99/)
+- 🐦 Twitter: [@n1c0_f99](https://twitter.com/n1c0_f99)
