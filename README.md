@@ -44,9 +44,12 @@ I'm a computer science student and Cloud Developer at Bosch Digital in Berlin, G
 ### 📈 My GitHub Stats
 
 <div align="center">
+  <!--
   <a href="https://leetcode.com/nicolas_fliegel/">
     <img src="https://leetcard.jacoblin.cool/nicolas_fliegel?theme=light&font=Sunflower" />
   </a>
+  -->
+  ![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nico4899&show_icons=true&theme=radical)
   
   <a href="https://github.com/Nico4899">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico4899" />
