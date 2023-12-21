@@ -1,9 +1,8 @@
 <div align="center">
-  <img style="border-radius: 10px" src="https://www.wallpaperup.com/uploads/wallpapers/2015/07/26/763385/9a82dcaefabcd4470d587987f7b97e24.jpg" width="50%" height="50%" />
   <h2>Hi, I'm Nicolas Fliegel</h2>
 </div>
 
-I'm a computer science student and Cloud Developer at Bosch Digital in Berlin, Germany 🇩🇪. Passionate about coding, I'm currently working with React, JS, Microsoft Azure, and GraphQL. When I'm not coding, I love playing soccer and tennis.
+I'm a computer science student in Karlsruhe, Germany 🇩🇪. Passionate about programming. I'm currently working with Rust and React.js. When I'm not coding, I love playing soccer and tennis.
 
 ### 🛠️ Tools & Technologies
 <div align="center">
