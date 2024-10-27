@@ -58,6 +58,6 @@ I'm a computer science student in Karlsruhe, Germany 🇩🇪. Passionate about 
 
 Interested in collaborating or sharing ideas? Feel free to reach out to me!
 
-- 📧 Email: [ubncr@student.kit.edu](mailto:ubncr@student.kit.edu)
-- 💼 LinkedIn: [Nicolas Fliegel](https://www.linkedin.com/in/nicolas-fliegel/)
-- 📝 Medium: [nico.fliegel](https://medium.com/@nico.fliegel)
+- 📧 [Email](mailto:ubncr@student.kit.edu)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-fliegel/)
+- 📝 [Medium](https://medium.com/@nico.fliegel)
