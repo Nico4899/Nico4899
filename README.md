@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi, I'm Nicolas Fliegel</h2>
+  <h2>Hi, I'm Nico</h2>
 </div>
 
 I'm a computer science student in Karlsruhe, Germany 🇩🇪. Passionate about programming. I'm currently working with Rust and React.js. When I'm not coding, I love playing soccer and tennis.
