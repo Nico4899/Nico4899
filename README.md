@@ -61,5 +61,3 @@ Interested in collaborating or sharing ideas? Feel free to reach out to me!
 - 📧 Email: [ubncr@student.kit.edu](mailto:ubncr@student.kit.edu)
 - 💼 LinkedIn: [Nicolas Fliegel](https://www.linkedin.com/in/nicolas-fliegel/)
 - 📝 Medium: [nico.fliegel](https://medium.com/@nico.fliegel)
-- 📷 Instagram: [@n1c0_f99](https://www.instagram.com/n1c0_f99/)
-- 🐦 Twitter: [@n1c0_f99](https://twitter.com/n1c0_f99)
