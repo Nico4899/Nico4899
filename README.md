@@ -2,7 +2,7 @@
   <h2>Hi, I'm Nico</h2>
 </div>
 
-I'm a computer science student in Karlsruhe, Germany 🇩🇪. Passionate about programming. I'm currently working with Rust and React.js. When I'm not coding, I love playing soccer and tennis.
+I'm a computer science student in Munich, Germany 🇩🇪. Passionate about programming. I'm currently working with Python and JS. When I'm not coding, I love playing soccer and tennis.
 
 ### 🛠️ Tools & Technologies
 <div align="center">
